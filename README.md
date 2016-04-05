@@ -4,7 +4,7 @@ Pirate shooter made for Circudelia launch party
 Install Instructions
 * Run the setup and the rest should become apparent
 
-Controls - Best to pad these to a proper games controller until I change them
+Controls
 * Player 1
 * Up    - W
 * Down  - S
